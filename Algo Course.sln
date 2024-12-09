@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fractional knapsack problem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP - Stagecoach", "DP - Stagecoach\DP - Stagecoach.csproj", "{9F98CFC7-F319-47AB-8C22-C0CFE7C19243}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest common subsequence", "Longest common subsequence\Longest common subsequence.csproj", "{F00B07C9-9337-416E-9184-32B3E199C359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9F98CFC7-F319-47AB-8C22-C0CFE7C19243}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F98CFC7-F319-47AB-8C22-C0CFE7C19243}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F98CFC7-F319-47AB-8C22-C0CFE7C19243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00B07C9-9337-416E-9184-32B3E199C359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00B07C9-9337-416E-9184-32B3E199C359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00B07C9-9337-416E-9184-32B3E199C359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00B07C9-9337-416E-9184-32B3E199C359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
